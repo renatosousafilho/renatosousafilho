@@ -1,16 +1,32 @@
-### Hi there 👋
+## Renato Filho 😉
 
-<!--
-**renatosousafilho/renatosousafilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá. Eu sou o Renato. Tenho uma carreira como desenvolvedor backend e atualmente sou especialista na [Trybe](https://betrybe.com/)
 
-Here are some ideas to get you started:
+### 💻 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minhas principais durante a carreira: 
+
+* Ruby
+* Ruby on Rails
+* Nodejs
+* MySQL
+
+Já trabalhei mas faz algum tempo que não programo mais: 
+
+* Java
+* PHP
+* C++
+* Delphi/Pascal
+
+Tenho curiosidade e acompanho de longe:
+
+* Python
+* Go
+* Elixir
+* React/Vue
+
+### ✉️ Contato
+
+* E-mail: renatosousafilho@gmail.com
+* Linkedin: https://www.linkedin.com/in/renatosousafilho/
+
