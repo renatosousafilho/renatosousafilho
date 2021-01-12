@@ -10,6 +10,7 @@ Minhas principais durante a carreira:
 * Ruby on Rails
 * Nodejs
 * MySQL
+* Docker / Linux
 
 Já trabalhei mas faz algum tempo que não programo mais: 
 
