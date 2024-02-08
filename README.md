@@ -4,12 +4,14 @@ Olá. Eu sou o Renato. Tenho uma carreira como desenvolvedor backend e atualment
 
 ### 💻 Tecnologias
 
-Minhas principais durante a carreira: 
+Tecnlogias que trabalhei nos últimos 10 anos: 
 
 * Ruby
 * Ruby on Rails
-* Nodejs
+* Node.js
+* TypeScript
 * MySQL
+* React
 * Docker / Linux
 
 Já trabalhei mas faz algum tempo que não programo mais: 
@@ -19,12 +21,12 @@ Já trabalhei mas faz algum tempo que não programo mais:
 * C++
 * Delphi/Pascal
 
-Tenho curiosidade e acompanho de longe:
+Já tive contato através de cursos e capacitações:
 
+* GoLang
 * Python
-* Go
 * Elixir
-* React/Vue
+* Vue
 
 ### ✉️ Contato
 
