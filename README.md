@@ -1,6 +1,6 @@
 ## Renato Filho 😉
 
-Olá. Eu sou o Renato. Tenho uma carreira como desenvolvedor backend e atualmente sou especialista na [Trybe](https://betrybe.com/)
+Olá. Eu sou o Renato. Trabalho como Dev Full Stack a 15+ anos e atualmente sou Pessoa Especialista na [Trybe](https://betrybe.com/).
 
 ### 💻 Tecnologias
 
