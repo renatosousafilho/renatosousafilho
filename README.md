@@ -1,6 +1,6 @@
 ## Renato Filho 😉
 
-Olá. Eu sou o Renato. Trabalho como Dev Full Stack a 15+ anos e atualmente sou Pessoa Especialista na [Trybe](https://betrybe.com/).
+Olá. Eu sou o Renato. Trabalho como Dev Full Stack a 15+ anos e atualmente sou Back End Developer no @12min.
 
 ### 💻 Tecnologias
 
